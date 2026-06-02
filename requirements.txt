@@ -1,0 +1,6 @@
+streamlit
+groq
+tavily-python
+yfinance
+psycopg2-binary
+python-dotenv
